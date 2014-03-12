@@ -1,0 +1,2 @@
+Paste your keyframes in here. Filename ####.jpg (four digits for the position in timeline, for example 0000-1440 for 0-24 hours)
+
